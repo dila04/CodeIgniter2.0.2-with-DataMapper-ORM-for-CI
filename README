@@ -1,0 +1,30 @@
+== CodeIgniter v2.0.2 with DataMapper ORM for CI
+DataMapper v.1.8.2 on top of CodeIgniter v2.0.2's Active Record
+An easier way to deal with database.
+
+== Description of Contents
+
+The default directory structure of a generated Ruby on Rails application:
+
+  |--framework
+  |  |-- application
+  |  |    |-- controllers
+  |  |    |-- core
+  |  |    |-- helpers
+  |  |    |-- libraries
+  |  |    |-- models
+  |  |    `-- views
+  |  |        `-- layouts
+  |  `-- system
+  |      |-- core
+  |      |-- database
+  |      |-- helpers
+  |      |-- libraries
+  |
+  |-- public <-- web server document root pointing to this directory
+  |   |-- assets
+  |   |   `-- css
+  |   |   `-- images
+  |   |   `-- js
+  |   |-- index.php
+
